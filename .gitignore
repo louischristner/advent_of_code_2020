@@ -2,3 +2,4 @@
 exec
 .vscode/
 vgcore.*
+output.txt
